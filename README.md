@@ -1,4 +1,4 @@
-# hello-world
+#the first test
 the first repository
 
-This is my first time doing something like this, so I hope I'm accurately following the tutorial to get a good grade. I like coffee.
+This is for CMSC 110 GitHub Assignment. Anna Clark, this is my respitory in GitHub.
