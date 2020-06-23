@@ -1,4 +1,4 @@
 #the first test
-the first repository
 
-This is for CMSC 110 GitHub Assignment. Anna Clark, this is my respitory in GitHub.
+
+This is for CMSC 110 GitHub Assignment. Anna Clark, this is my first repository in GitHub.
